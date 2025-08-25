@@ -8,7 +8,7 @@
 }
 
 body {
-  background: url(/images/stadiumbg.png) no-repeat center center/cover;
+  background: url(/images/aboutPage/stadiumbg.png) no-repeat center center/cover;
   background-attachment: fixed;
 }
 
@@ -30,6 +30,15 @@ body {
 .navbar img {
   width: 10%;
   margin-left: 50px;
+}
+
+.navbar .user {
+  width: 3%;
+  height: 3%;
+  margin-right: 50px;
+  margin-top: 10px;
+  border-radius: 50%;
+  border: 3px solid #3b0066;
 }
 
 .navbar ul {
