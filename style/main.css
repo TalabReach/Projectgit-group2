@@ -8,7 +8,7 @@
 }
 
 body {
-  background: url(/images/homePage/backgound.jpg) no-repeat center center/cover;
+  background: url(/images/backgound.jpg) no-repeat center center/cover;
   background-attachment: fixed;
 }
 
@@ -76,7 +76,7 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 30px;
   width: 100%;
-  max-width: 1200px;
+  max-width: 1400px;
 }
 
 
