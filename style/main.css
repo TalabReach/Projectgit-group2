@@ -202,8 +202,8 @@ body {
 }
 
 .ceo-img {
-  width: 450px;
-  height: 350px;
+  width: 350px;
+  height: 400px;
   object-fit: cover;
   border-radius: 10px;
   border: 2px solid #f1c40f;
@@ -211,6 +211,13 @@ body {
 
 .about-ceo p {
   color: #555;
+}
+
+.label p {
+  font-weight: bold;
+  color: #f1c40f;
+  font-size: 20px;
+  margin-top: 10px;
 }
 
 .footer {
