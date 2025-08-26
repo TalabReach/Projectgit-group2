@@ -64,7 +64,7 @@ body {
 }
 
 .goal {
-  margin-top: 80px;
+  margin-top: 50px;
   padding: 50px 20px;
   display: flex;
   justify-content: center;
@@ -73,7 +73,7 @@ body {
 
 .wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 30px;
   width: 100%;
   max-width: 1400px;
@@ -202,8 +202,8 @@ body {
 }
 
 .ceo-img {
-  width: 300px;
-  height: 300px;
+  width: 450px;
+  height: 350px;
   object-fit: cover;
   border-radius: 10px;
   border: 2px solid #f1c40f;
