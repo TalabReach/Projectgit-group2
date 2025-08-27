@@ -46,6 +46,18 @@ body {
   align-items: center;
 }
 
+.active {
+  border-bottom: 5px solid rgb(4, 4, 182);
+  border-radius: 4px;
+  padding-bottom: 2px;
+}
+
+.active:hover {
+  border-bottom: 5px solid rgb(183, 5, 5);
+  border-radius: 4px;
+  padding-bottom: 2px;
+}
+
 .navbar ul li {
   list-style: none;
 }
@@ -352,6 +364,18 @@ body {
   .navbar ul {
     display: flex;
     gap: 20px;
+  }
+
+  .active {
+    border-bottom: 3px solid rgb(4, 4, 182);
+    border-radius: 4px;
+    padding-bottom: 2px;
+  }
+
+  .active:hover {
+    border-bottom: 3px solid rgb(183, 5, 5);
+    border-radius: 4px;
+    padding-bottom: 2px;
   }
 
   .navbar ul li a {
