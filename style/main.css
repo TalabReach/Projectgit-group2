@@ -277,7 +277,7 @@ body {
   color: #777;
 }
 
-/* ========== Tablet (up to 768px) ========== */
+/* ========== Tablet========== */
 @media (max-width: 768px) {
   .navbar ul {
     gap: 20px;
@@ -333,7 +333,7 @@ body {
   }
 }
 
-/* ========== Mobile (up to 480px) ========== */
+/* ========== Mobile========== */
 @media (max-width: 480px) {
   .navbar {
     flex-direction: column;
