@@ -55,12 +55,12 @@ body {
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
-  color: #3b0066;
+  color: rgb(4, 4, 182);
   transition: color 0.3s ease;
 }
 
 .navbar ul li a:hover {
-  color: #0fbcf9;
+  color: rgb(183, 5, 5);
 }
 
 .club-profile {
@@ -193,3 +193,106 @@ h1 {
   color: #777;
 }
 
+/* ========== Tablet (up to 768px) ========== */
+@media (max-width: 768px) {
+  .navbar ul {
+    gap: 20px;
+  }
+
+  .club-profile {
+    padding: 15px;
+    margin: 90px 10px 40px;
+  }
+
+  .club-logo {
+    width: 150px;
+    height: 150px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  .club-info {
+    grid-template-columns: 1fr; /* stack cards vertically */
+    gap: 20px;
+  }
+
+  .info-card img {
+    height: 400px;
+  }
+
+  .info-card h2 {
+    font-size: 20px;
+  }
+
+  .info-card p {
+    font-size: 13px;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+/* ========== Mobile (up to 480px) ========== */
+@media (max-width: 480px) {
+  .navbar {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .navbar img {
+    max-width: 90px;
+    margin-bottom: 10px;
+  }
+
+  .user {
+    display: none;
+  }
+
+  .navbar ul {
+    display: flex;
+    gap: 20px;
+  }
+
+  .navbar ul li a {
+    font-size: 14px;
+  }
+
+  .club-profile {
+    margin: 80px 5px 30px;
+    padding: 10px;
+  }
+
+  .club-logo {
+    width: 120px;
+    height: 120px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .info-card img {
+    height: 300px;
+  }
+
+  .info-card h2 {
+    font-size: 18px;
+  }
+
+  .info-card p {
+    font-size: 12px;
+  }
+
+  .footer h3 {
+    font-size: 16px;
+  }
+
+  .footer p,
+  .footer a {
+    font-size: 12px;
+  }
+}
