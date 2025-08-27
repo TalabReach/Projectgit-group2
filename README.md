@@ -17,7 +17,7 @@ Prerequisites
 
 # 👥 Team Members
 
-Our team members:
+Our team members name:
 
 [![Contributors](https://contrib.rocks/image?repo=reaksmey27/readme)](https://github.com/reaksmey27/readme/graphs/contributors)
 #### Reaksmey San
