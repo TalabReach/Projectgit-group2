@@ -39,6 +39,9 @@ The Home Page features a stadium background, a responsive navbar, interactive fl
 ![About Screenshot](/images/aboutPage/aboutPage.png)
 
 The About Page provides detailed information about the club, its history, mission, and team. It showcases the CEO and leadership team with images and bios, and presents content in a clean, responsive layout that works smoothly on desktop, tablet, and mobile devices.
+## Player Page
+![PlayerScreenshot](/images/playersPage/player.png)
+The Player Page displays all team players with their photos, names, and key information. Interactive cards provide additional details on hover, and the layout is fully responsive for desktop, tablet, and mobile devices.
 ## Contact page
 ![Contact Screenshot](/images/contactPage/contactPage.png)
 
@@ -54,4 +57,4 @@ The Contact Page allows users to get in touch with the club through a responsive
 # 📌 Releases
 
 - v1.0 – First Stable Release 🎉
-- v5.0 – Final Version ✅
+- v6.0 – Final Version ✅
