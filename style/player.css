@@ -75,7 +75,8 @@ body {
   color: rgb(183, 5, 5);
 }
 .info-container{
-      background: rgba(255, 255, 255, 0.95);
+  background: rgba(255, 255, 255, 0.845);
+  padding: 32px;
 }
 .club-logo {
   width: 200px;
@@ -103,7 +104,7 @@ body {
 }
 
 .position-title {
-  font-size: 29px; 
+  font-size: 36px; 
   margin: 40px 20px 15px;
   color: #0b0340;
   border-left: 6px solid #ffcc00;
@@ -133,10 +134,9 @@ body {
 
 .player-card img {
   width: 100%;
-  max-width: 150px;
-  height: 150px;
+  max-width: 200px;
+  height: 300px;
   object-fit: cover;
-  border-radius: 50%;
   margin-bottom: 10px;
 }
 
