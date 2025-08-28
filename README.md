@@ -19,11 +19,11 @@ Prerequisites
 
 Our team members name:
 
-[![Contributors](https://contrib.rocks/image?repo=reaksmey27/readme)](https://github.com/reaksmey27/readme/graphs/contributors)
+![Contributors](https://contrib.rocks/image?repo=reaksmey27/readme)
 #### Reaksmey San
-[![Contributors](https://contrib.rocks/image?repo=TalabReach/web-design)](https://github.com/TalabReach/web-design/graphs/contributors)
+![Contributors](https://contrib.rocks/image?repo=TalabReach/web-design)
 #### Reach Talab
-[![Contributors](https://contrib.rocks/image?repo=Molika207/my-project)](https://github.com/Molika207/my-project/graphs/contributors)
+![Contributors](https://contrib.rocks/image?repo=Molika207/my-project)
 #### Molika Lon
 
 # 🌍 Deployed Link
